@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javeria-01;
-- 👀 I’m interested in coding, Programming; 
+- 👀 Interested in coding; 
 - 🌱 Studying computer Science;
 - 💞️ Currently learning java and python;
 
