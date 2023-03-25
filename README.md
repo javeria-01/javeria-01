@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @javeria-01;
-- 👀 Interested in coding; 
-- 🌱 Studying computer Science;
-- 💞️ Currently Learning java and python;
+- Hi, I’m @javeria-01;
+- Studying Computer Science;
+- From Comsats University Islamabad
 
 
 <!---
