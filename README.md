@@ -1,5 +1,5 @@
 - Hi, I’m @javeria-01;
-- Studying Computer Science;
+- Computer Science Graduate;
 - From Comsats University Islamabad
 
 
