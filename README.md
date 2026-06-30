@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Javeria 👋</h1>
 
 <p align="center">
-  <<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;Building+Real-World+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;Building+Real-World+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
