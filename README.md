@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Javeria 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D6A9F&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;Building+Real-World+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D6A9F&center=true&vCenter=true&width=435&lines=Full+Stack+Laravel+Web+Developer;Computer+Science+Graduate;Building+Real-World+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,14 +36,6 @@
 - 🏫 **[School Management System](https://github.com/javeria-01/school-management-system)** — A full-stack Laravel application with role-based dashboards for Admin, Teacher, and Student.
 - 📝 **[Quiz System](https://github.com/javeria-01/Quiz-System)** — A Laravel-based quiz platform where admins create quizzes and users attempt them with automatic scoring and results.
 - 📰 **[Laravel Blog Management System](https://github.com/javeria-01/laravel-blog-management-system)** — A blog management application built with Laravel.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javeria-01&show_icons=true&theme=dark&hide_border=true" alt="Javeria's GitHub stats" width="450" />
-</p>
 
 ---
 
