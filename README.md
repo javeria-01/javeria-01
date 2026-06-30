@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javeria-01&show_icons=true&theme=default" alt="Javeria's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javeria-01&show_icons=true&theme=dark&hide_border=true" alt="Javeria's GitHub stats" width="450" />
 </p>
 
 ---
