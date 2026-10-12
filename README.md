@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Javeria Javed
+<h1 align="center">👋 Hi there, I'm Javeria Javed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Graduate;Building+Cross-Platform+Mobile+Apps" alt="Typing SVG" />
